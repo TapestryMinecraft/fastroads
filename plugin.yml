@@ -1,0 +1,4 @@
+name: FastRoads
+version: 0.1
+description: Walk faster on harder surfaces
+main: com.github.itsnickbarry.fastroads.FastRoads

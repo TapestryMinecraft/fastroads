@@ -1,0 +1,34 @@
+# Peace and respect!
+#
+# Welcome to configuration file of FastRoads!
+#
+# Please ensure to add only speedy numbers between 0 and 1!
+# Default speed is 0.2!
+#
+# Exp number can be any!
+
+
+# Choose speed for natural blocks of sand, snow, and similar!
+naturalSoft: 0.1
+
+# Choose speed for natural blocks of grass, dirt, mycelium, and similar!
+# Recommend to leave on 0.2!
+naturalMedium: 0.2
+
+# Choose speed for natural blocks of stone, hardened clay, and similar!
+naturalHard: 0.25
+
+# Choose speed for man-made blocks of wool, bed, and similar!
+artificialSoft: 0.15
+
+# Choose speed for man-made blocks of jukebox, furnace, dropper, and similar!
+# Recommend to leave on 0.2!
+artificialMedium: 0.2
+
+# Choose speed for man-made blocks of wood, cobblestone, brick, stone brick, slab, and similar!
+artificialHard: 0.3
+
+
+
+# Choose amount of experience for player to gain by walk one block!
+expFactor: 0.01
